@@ -2,6 +2,7 @@
 <a href="https://colab.research.google.com/drive/1b5Gdr5Ld-FrqQJokZb4JRZjdLkxLeUIs?usp=sharing">
   <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
 </a>
+
 O tqdm é uma ótima biblioteca em Python que oferece uma maneira simples de adicionar barras de progresso em loops e em processos iterativos. 
 Ela fornece informações como a porcentagem concluída, o tempo decorrido, a estimativa de tempo restante e uma barra que se enche à medida que a tarefa progride.
 
